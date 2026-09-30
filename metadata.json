@@ -1,0 +1,6 @@
+{
+  "name": "AFFILIATE PROFIT PLANNER - مخطط أرباح الأفلييت",
+  "description": "حاسبة اقتصاديات التسويق بالعمولة التعليمية - تحويل أهداف أرباح الأفلييت إلى أرقام ورياضيات حقيقية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
