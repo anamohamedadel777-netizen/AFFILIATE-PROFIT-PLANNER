@@ -8,9 +8,8 @@ export const APP_CONFIG = {
   brandName: 'Mohamed Adel',
   brandTaglineAr: 'التسويق بالعمولة نظام… مش مجرد رابط.',
   brandTaglineEn: 'Affiliate Marketing Is a System, Not a Link.',
-  // Centralized Mini Course link - kept empty initially as requested
-  // When empty, the CTA is visually disabled with the required notice
-  MINI_COURSE_URL: '',
+  // Centralized Mini Course link
+  MINI_COURSE_URL: 'https://affiliate-mini-course.mohamdadel.com/waitlist',
   
   defaults: {
     currencySymbol: '$',

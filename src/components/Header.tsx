@@ -40,6 +40,9 @@ export const Header: React.FC<HeaderProps> = ({ onReset }) => {
           <a href="#simulator" className="hover:text-[#F5BF1E] transition-colors">
             المحاكي
           </a>
+          <a href="#mini-course" className="hover:text-[#F5BF1E] text-[#F5BF1E]/90 transition-colors">
+            الميني كورس
+          </a>
         </nav>
 
         {/* Zone 3: Reset action */}

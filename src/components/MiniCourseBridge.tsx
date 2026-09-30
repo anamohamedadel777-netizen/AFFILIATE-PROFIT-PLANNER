@@ -6,7 +6,7 @@ export const MiniCourseBridge: React.FC = () => {
   const hasCourseUrl = Boolean(APP_CONFIG.MINI_COURSE_URL && APP_CONFIG.MINI_COURSE_URL.trim() !== '');
 
   return (
-    <section className="bg-gradient-to-b from-[#23170D] to-[#040405] border border-[#4A2F15] rounded-xl p-6 sm:p-8 shadow-2xl relative overflow-hidden space-y-6">
+    <section id="mini-course" className="bg-gradient-to-b from-[#23170D] to-[#040405] border border-[#4A2F15] rounded-xl p-6 sm:p-8 shadow-2xl relative overflow-hidden space-y-6">
       <div className="max-w-3xl mx-auto text-center space-y-4">
         {/* Subtle badge */}
         <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#040405] border border-[#4A2F15] text-[11px] font-semibold text-[#F5BF1E]">
